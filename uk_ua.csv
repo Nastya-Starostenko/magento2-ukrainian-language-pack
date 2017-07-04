@@ -559,7 +559,7 @@ From:,Від:,module,Magento_Bundle
 To:,Кому:,module,Magento_Bundle
 Message:,Повідомлення:,module,Magento_Bundle
 Product Name,Назва Продукту,module,Magento_Bundle
-Subtotal,Проміжні підсумки,module,Magento_Bundle
+Subtotal,Всього,module,Magento_Bundle
 Discount Amount,Сума знижки,module,Magento_Bundle
 Row Total,Підсумок рядка,module,Magento_Bundle
 Qty Invoiced,К-ть виставлених рахунків,module,Magento_Bundle
